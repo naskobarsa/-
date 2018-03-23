@@ -1,0 +1,7 @@
+
+#collections, #gallery, #posts {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: zoomInDown;
+    -webkit-animation-iteration-count: 1;
+}
+
